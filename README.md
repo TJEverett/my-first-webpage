@@ -6,7 +6,7 @@
 
 ## Description
 
-This is my paractice webpage used to learn how to create paragraphs, ordered lists, unordered lists, hyperlinks, and insert images.
+This is my paractice webpage used to learn how to create paragraphs, ordered lists, unordered lists, hyperlinks, insert images, and create style sheets.
 
 ## Setup/Installation Requirements
 
@@ -16,6 +16,7 @@ This is my paractice webpage used to learn how to create paragraphs, ordered lis
 ## Technologies Used
 
 HTML
+CSS
 
 ### License
 
