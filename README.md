@@ -16,6 +16,7 @@ This is my paractice webpage used to learn how to create paragraphs, ordered lis
 ## Technologies Used
 
 HTML
+
 CSS
 
 ### License
